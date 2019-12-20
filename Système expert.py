@@ -1,0 +1,1 @@
+#Pas de package (easygui), pas d'exo ¯\_(ツ)_/¯
